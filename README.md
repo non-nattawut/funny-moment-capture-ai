@@ -12,6 +12,12 @@ FunnyMomentCaptureAI is a Python-based tool designed to automatically identify a
 *   **JSON Output**: Saves all identified moments in a structured JSON file for easy review.
 *   **Configurable LLM**: Supports both LM Studio (for local LLMs) and NVIDIA NIM (for cloud-based LLMs).
 
+## Workflow
+
+Here's a high-level overview of how FunnyMomentCaptureAI processes a video:
+
+![img.png](img.png)
+
 ## Installation
 
 ### Prerequisites
