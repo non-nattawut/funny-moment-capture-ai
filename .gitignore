@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/test.mp4
+output/test_funny_moments.json
+temp/test.mp3
+temp/test_transcript.json
